@@ -1,2 +1,0 @@
-Hello bro! This is the first push using git bash
-
